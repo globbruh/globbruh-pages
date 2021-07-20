@@ -1,2 +1,2 @@
 # globbruh-pages
-glodbruh page.
+globbruh page
